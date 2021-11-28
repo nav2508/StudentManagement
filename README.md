@@ -2,19 +2,19 @@
 
 USERS :-
 
-*1)Admin
-*2)Teacher
-*3)Student
+* 1)Admin
+* 2)Teacher
+* 3)Student
 
 LOGIN CREDENTIALS
 
-*ADMIN MODULE:-
+* ADMIN MODULE:-
 Username  : navyamanjarihyd443@gmail.com
 Password    : 12345678
-*TEACHER MODULE :-
+* TEACHER MODULE :-
 Username : teacher1
 Password : 12345678
-*STUDENT MODULE:-
+* STUDENT MODULE:-
 Username : student12
 Password : 12345678
 
