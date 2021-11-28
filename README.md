@@ -9,13 +9,13 @@ USERS :-
 LOGIN CREDENTIALS
 
 * ADMIN MODULE:-
-Username  : navyamanjarihyd443@gmail.com
+Username  : navyamanjarihyd443@gmail.com,
 Password    : 12345678
 * TEACHER MODULE :-
-Username : teacher1
+Username : teacher1,
 Password : 12345678
 * STUDENT MODULE:-
-Username : student12
+Username : student12,
 Password : 12345678
 
 
