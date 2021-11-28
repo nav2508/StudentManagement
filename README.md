@@ -19,7 +19,7 @@ Username : student12,
 Password : 12345678
 
 
-## A humble request to the panel members.Attaching a google drive link which contains PPT with 58 slides depicting each and every feature clearly.
+## A humble request to the panel members.Attaching a google drive link which contains PDF with 58 pages depicting each and every feature clearly.
 ### It clearly shows the usage of each feature created.
 ### Please go through the link.
 ### The link is given below :-
