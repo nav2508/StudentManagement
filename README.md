@@ -25,3 +25,11 @@ Please go through the link
 The link is given below :-
 
 [GoogleDrive](https://docs.google.com/presentation/d/1TVWMdYGIMoCbQO-ENiowcQlRjQpspmcR/edit?usp=sharing&ouid=113488309991046860873&rtpof=true&sd=true)
+
+
+# TECHNOLOGY STACK
+
+* FRONTEND : HTML,CSS,JavaScript
+* BACKEND  : PHP
+* FRAMEWORK : Codeigniter
+* DATABASE : SQL
