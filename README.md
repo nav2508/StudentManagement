@@ -24,7 +24,7 @@ Password : 12345678
 ### Please go through the link.
 ### The link is given below :-
 
-[GoogleDrive](https://docs.google.com/presentation/d/1TVWMdYGIMoCbQO-ENiowcQlRjQpspmcR/edit?usp=sharing&ouid=113488309991046860873&rtpof=true&sd=true)
+[GoogleDrive](https://drive.google.com/file/d/1W35S0EUYfvR3t1D79e_q8mqjX5CtX09X/view?usp=sharing)
 
 
 # TECHNOLOGY STACK
