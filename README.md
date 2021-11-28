@@ -33,3 +33,13 @@ Password : 12345678
 * BACKEND  : PHP
 * FRAMEWORK : Codeigniter
 * DATABASE : SQL
+
+# FUNCTIONAL FEATURES
+
+* 1)One-to-One chat
+* 2)Group chat
+* 3)Class routine adding
+* 4)Homework (or) Assignment Submission
+* 5)Online test
+* 6)Study Material Upload
+* 7)Live classes
